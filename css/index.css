@@ -1,0 +1,7 @@
+.panel-content {
+  display: none;
+  margin-top: 15px;
+}
+.toggle-on {
+  display: block;
+}
